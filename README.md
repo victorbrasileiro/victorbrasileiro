@@ -1,8 +1,9 @@
 ##  Olá! Eu sou o Victor Brasileiro
 
-- 🔭 Estou cursando o 3º Período de Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando HTML, CSS e Javascript
-- :trollface:  Conhecimento básico em Github
+- :trollface: Estou cursando o 3º Período de Análise e Desenvolvimento de Sistemas
+- :bird: Estudando HTML, CSS e Javascript
+- :snail: 
+- :baby_chick: Conhecimento básico em Github
 
 <div>
   <a href="https://beacons.ai/victorbrasileiro">
