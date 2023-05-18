@@ -2,8 +2,8 @@
 
 - :trollface: Estou cursando o 3º Período de Análise e Desenvolvimento de Sistemas
 - :bird: Estudando HTML, CSS e Javascript
-- :suspect: Familiaridade com C#, Python e Java 
-- :bust_in_silhouette: Conhecimento básico em Github
+- :fireworks: Familiaridade com C#, Python e Java 
+- :octocat: Conhecimento básico em Github
 
 <div>
   <a href="https://beacons.ai/victorbrasileiro">
