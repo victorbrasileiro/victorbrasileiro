@@ -2,7 +2,7 @@
 
 - 🔭 Estou cursando o 3º Período de Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando HTML, CSS e Javascript
-- :trollface: Conhecimento básico em Github
+- :trollface:  Conhecimento básico em Github
 
 <div>
   <a href="https://beacons.ai/victorbrasileiro">
