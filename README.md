@@ -2,7 +2,7 @@
 
 - :trollface: Estou cursando o 3º Período de Análise e Desenvolvimento de Sistemas
 - :bird: Estudando HTML, CSS e Javascript
-- :snail: 
+- :suspect: Familiridade com C#, PYTHON e JAVA 
 - :baby_chick: Conhecimento básico em Github
 
 <div>
