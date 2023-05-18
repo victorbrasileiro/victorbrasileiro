@@ -1,4 +1,4 @@
-##  Olá! Eu sou o Victor Brasileiro
+##  Olá! Eu sou o Victor Brasileiro :grey_exclamation:
 
 - :trollface: Estou cursando o 3º Período de Análise e Desenvolvimento de Sistemas
 - :bird: Estudando HTML, CSS e Javascript
