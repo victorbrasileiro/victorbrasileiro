@@ -1,9 +1,8 @@
 ##  Olá! Eu sou o Victor Brasileiro :bowtie:
 
-- :trollface: Estou cursando o 3º Período de Análise e Desenvolvimento de Sistemas
+- :trollface: Estou cursando o 4º Período de Análise e Desenvolvimento de Sistemas
 - :bird: Estudando HTML, CSS e Javascript
-- :fireworks: Familiaridade com C#, Python e Java 
-- :octocat: Conhecimento básico em Github
+- :octocat: Conhecimento básico em GitHub
 
 <div>
   <a href="https://beacons.ai/victorbrasileiro">
