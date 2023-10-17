@@ -2,7 +2,6 @@
 
 - :trollface: Estou cursando o 4º Período de Análise e Desenvolvimento de Sistemas
 - :bird: Estudando HTML, CSS e Javascript
-- :octocat: Conhecimento básico em GitHub
 
 <div>
   <a href="https://beacons.ai/victorbrasileiro">
@@ -15,8 +14,6 @@
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   <img align="center" alt="Victor-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Victor-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Victor-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Victor-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
  
 ## 
