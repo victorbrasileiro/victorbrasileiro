@@ -1,7 +1,7 @@
 ##  Olá! Eu sou o Victor Brasileiro :bowtie:
 
-- :trollface: Estou cursando o 4º Período de Análise e Desenvolvimento de Sistemas
-- :bird: Estudando HTML, CSS e Javascript
+- :trollface: Estou cursando o 5º Período de Análise e Desenvolvimento de Sistemas
+- :bird: Focando minhas habilidades em desenvolvimento Back-end: PHP, Laravel.
 
 <div>
   <a href="https://beacons.ai/victorbrasileiro">
@@ -14,6 +14,8 @@
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   <img align="center" alt="Victor-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Victor-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+<img align="center" alt="Victor-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
  
 ## 
