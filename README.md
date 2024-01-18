@@ -17,13 +17,9 @@
 </div>
 <img align="center" alt="Victor-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
-<img align="center" alt="Victor-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-</div>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 <img align="center" alt="Victor-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div>
- 
-## 
-  
 <div>
   <a href="https://www.linkedin.com/in/victorbrasileiroo/" target="_blank"><img align="center" height="30em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
