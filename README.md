@@ -1,4 +1,4 @@
-##  Olá! Eu sou o Victor Brasileiro :bowtie:
+##  Olá!  :bowtie:
 
 - :trollface: Estou cursando o 5º Período de Análise e Desenvolvimento de Sistemas
 - :bird: Focando minhas habilidades em desenvolvimento Back-end: PHP, Laravel.
