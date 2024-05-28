@@ -1,7 +1,6 @@
 ##  Olá!  
 :trollface:
 
-- Estou cursando o 5º Período de Análise e Desenvolvimento de Sistemas
 - Focando minhas habilidades em desenvolvimento Back-end: PHP, Laravel.
 
 <div>
