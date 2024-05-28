@@ -13,5 +13,5 @@
   <img align="center" alt="Victor-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 <div>
   <br>
-  <a href="https://www.linkedin.com/in/victorbrasileiroo/" target="_blank"><img align="center" height="30em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/victorbrasileiroo/" target="_blank"><img align="center" height="50em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
