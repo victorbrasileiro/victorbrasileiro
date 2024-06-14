@@ -1,7 +1,7 @@
 ##  Olá,  Seja bem-vindo(a) ao meu GitHub!
 :trollface:
 
-- Melhorando minhas habilidades como desenvolvedor focado em Back-end. Estudando a linguagem PHP com o framework Laravel. 
+- Já tive contato com as linguagens abaixo. No entanto, atualmente estou melhorando minhas habilidades como desenvolvedor focado em Back-end. Estudando a linguagem PHP com o framework Laravel. 
 
 <div>
   <a href="https://beacons.ai/victorbrasileiro">
