@@ -1,8 +1,5 @@
 ##  Olá,  Seja bem-vindo(a) ao meu GitHub!
 :trollface:
-
-- Já tive contato com as linguagens abaixo. No entanto, atualmente estou melhorando minhas habilidades como desenvolvedor focado em Back-end. Estudando a linguagem PHP com o framework Laravel. 
-
 <div>
   <a href="https://beacons.ai/victorbrasileiro">
 </div>
@@ -11,6 +8,7 @@
   <img align="center" alt="Victor-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Victor-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Victor-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Victor-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/react-original.svg">
   <img align="center" alt="Victor-Dart" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
 <div>
   <br>
